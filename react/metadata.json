@@ -1,0 +1,6 @@
+{
+  "name": "HTML to SCORM Converter",
+  "description": "An application to convert an uploaded HTML file into a downloadable SCORM 1.2 package, complete with the necessary API calls and manifest file for LMS compatibility.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
